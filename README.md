@@ -26,6 +26,8 @@ It integrates various tools like MySQL database operations, Google Search, Email
 | `tools.py` | Collection of utility functions and database/email/YouTube tools. |
 | `store_to_db.py` | Stores chat history into a MySQL database (`chats` database). |
 
+Checkout the example files (basic implemantation files such as `ReadEmail.py` , `SendEmail.py` , and etc.,)
+
 ---
 
 ## ⚙️ Setup Instructions
