@@ -1,0 +1,7 @@
+google-genai
+python-dotenv
+mysql-connector-python
+imap-tools
+smtplib
+youtube-transcript-api
+requests
